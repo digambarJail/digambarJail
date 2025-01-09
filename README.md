@@ -1,69 +1,78 @@
-[![An image of @digambarJail's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
+# Digambar Jail's GitHub Profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4000&pause=500&color=EBFF13&width=435&lines=Hi%2C+Welcome+to+my+profile+!!;I'm+software+engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Love+to+build+web+apps)](https://git.io/typing-svg)
+Welcome to my GitHub profile! 👋 I'm a **Full Stack Developer** passionate about building efficient, scalable, and user-friendly applications. Below you can find my education, skills, projects, and other important information about me.
 
-<h1 align="center">Deepesh Kumar</h1>
-<h3 align="center">Full Stack Web Developer & Python Developer</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a"> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p> -->
+---
 
-<br>
-<h3 align="left">Professional Network:</h3>
-<div>
-<a href="mailto:akadeepesh1710@gmail.com" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="mymail" />
-</a>
-<a href="https://linkedin.com/in/akadeepesh" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mylinkedIn" />
-</a>
-<a href="https://discordapp.com/users/850672445803593729" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mydiscord" />
-</a>
-<a href="https://t.me/akadeepesh" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="mytelegram" />
-</a>
-</div>
+## 🎓 Education
 
-<br><br><br>
-<h3>Streak Stats:</h3>
+**Pune Institute of Computer Technology**  
+_Bachelor of Engineering in Information Technology_  
+Pune, India  
+**Nov 2022 – Present**
 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=calm" alt="Again streak server down :)"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 💼 Experience
 
+### **Full Stack Developer Intern | CreditSea**
+_Remote | October 2024 – Present_
 
-<!---This keeps the images aligned side to side-->
-[tech_tools_anchor]: #--
+- Worked on developing APIs, integrating third-party services, and automating reporting systems.
 
-<!---------------------------Table Starts from here --------------------------->
+### **Full Stack Developer Intern | Infoogy**
+_Remote | June 2024 – September 2024_
+
+- Built full-stack web applications using Next.js, TypeScript, and TailwindCSS.
+- Implemented role-based authentication and server-side rendering (SSR).
+
+---
+
+## 💻 Projects
+
+### **PICT-Connect | MERN Stack**  
+[View Project](https://pict-connect.onrender.com)  
+A community-based web application for students, built with ReactJS and TailwindCSS.
+
+### **Reverse Coding | ReactJS, TailwindCSS**  
+A platform for coding competitions, providing real-time coding challenges for students.
+
+---
+
+## 🛠 Skills
+
 <div align="center">
-
-| Skill                  | Technologies |
-|------------------------|--------------|
-| **Programming Languages** | [<img src="https://img.shields.io/badge/Python-282C34?style=flat-square&logo=python&logoColor=3776AB" alt="Python" height="27" />](#) [<img src="https://img.shields.io/badge/Javascript-282C34?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="27" />](#) [<img src="https://img.shields.io/badge/Typescript-282C34?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="27" />](#) [<img src="https://img.shields.io/badge/C++-282C34?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" height="27" />](#) [<img src="https://img.shields.io/badge/C-282C34?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" height="27" />](#) [<img src="https://img.shields.io/badge/SQL-282C34?style=flat-square&logo=sqlite&logoColor=4479A1" alt="SQL" height="27" />](#) |
-| **Backend Development**  | [<img src="https://img.shields.io/badge/Node.js-282C34?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" height="27" />](#) [<img src="https://img.shields.io/badge/Express.js-282C34?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js" height="27" />](#) [<img src="https://img.shields.io/badge/Django-282C34?style=flat-square&logo=django&logoColor=092E20" alt="Django" height="27" />](#) [<img src="https://img.shields.io/badge/PHP-282C34?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" height="27" />](#) |
-| **Frontend Development** | [<img src="https://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="27" />](#) [<img src="https://img.shields.io/badge/Next.js-282C34?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" height="27" />](#) [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" height="27" />](#) [<img src="https://img.shields.io/badge/Material%20UI-282C34?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI" height="27" />](#) [<img src="https://img.shields.io/badge/Sass-282C34?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass" height="27" />](#) |
-| **Database**            | [<img src="https://img.shields.io/badge/MySQL-282C34?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" height="27" />](#) [<img src="https://img.shields.io/badge/PostgreSQL-282C34?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="27" />](#) [<img src="https://img.shields.io/badge/MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" height="27" />](#) |
-| **Cloud & BaaS**        | [<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="30" />](#) [<img src="https://img.shields.io/badge/Firebase-282C34?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" height="27" />](#) [<img src="https://img.shields.io/badge/Vercel-282C34?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel" height="27" />](#) [<img src="https://img.shields.io/badge/Supabase-282C34?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" height="27" />](#) [<img src="https://img.shields.io/badge/Convex-282C34?style=flat-square&logo=convex&logoColor=FF8A65" alt="Convex" height="27" />](#) |
-| **Tools & IDE**         | [<img src="https://img.shields.io/badge/Jupyter-282C34?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" height="27" />](#) [<img src="https://img.shields.io/badge/Sublime%20Text-282C34?style=flat-square&logo=sublimetext&logoColor=FF9800" alt="Sublime Text" height="27" />](#) [<img src="https://img.shields.io/badge/VS%20Code-282C34?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" height="27" />](#) [<img src="https://img.shields.io/badge/PyCharm-282C34?style=flat-square&logo=pycharm&logoColor=000000" alt="PyCharm" height="27" />](#) |
-| **DevOps & CI/CD**      | [<img src="https://img.shields.io/badge/Docker-282C34?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" height="27" />](#) [<img src="https://img.shields.io/badge/Git-282C34?style=flat-square&logo=git&logoColor=F05032" alt="Git" height="27" />](#) [<img src="https://img.shields.io/badge/GitHub%20Actions-282C34?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" height="27" />](#) |
-| **Operating System**    | [<img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="30" />](#) [<img src="https://img.shields.io/badge/Ubuntu-282C34?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" height="27" />](#) [<img src="https://img.shields.io/badge/Fedora-282C34?style=flat-square&logo=fedora&logoColor=51A2DA" alt="Fedora" height="27" />](#) |
-| **Authentication**      | [<img src="https://img.shields.io/badge/JWT-282C34?style=flat-square&logo=jsonwebtokens&logoColor=ffffff" alt="JWT" height="27" />](#) [<img src="https://img.shields.io/badge/Session%20Auth-282C34?style=flat-square&logo=auth0&logoColor=EB5424" alt="Session Auth" height="27" />](#) [<img src="https://img.shields.io/badge/Google-282C34?style=flat-square&logo=google&logoColor=4285F4" alt="Google" height="27" />](#) [<img src="https://img.shields.io/badge/GitHub-282C34?style=flat-square&logo=github&logoColor=181717" alt="GitHub" height="27" />](#) |
-
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="100" />
+  <img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="100" />
 </div>
 
+---
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<!---------------------------Table Ends from here --------------------------->
+## 🏆 Accomplishments
 
-<h3> My GitHub Stats </h3>
+- **Pupil Coder at Codeforces:** Max rating 1220
+- **2 Star Coder at CodeChef:** Max rating 1510
+- **LeetCode:** Solved 250+ problems
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akadeepesh&show_icons=true&hide_border=true&theme=calm&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=calm&hide_border=true" alt="Top Languages"/>
-  </div>
-<!--     <img height="224em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/> -->
-</div>
+---
+
+## 🤝 Volunteer Experience
+
+**PICT IEEE Student Branch**  
+_Pune, India | Member (2022 – 2026)_
