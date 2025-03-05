@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I am currently working at CreditSea as a Software Engineer Intern 🚀.
+🚀 Full Stack Web Developer and a Problem Solver ! 🚀.
 
 
 ## 🌐 Socials:
