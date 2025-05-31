@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Web Developer and a Problem Solver ! 🚀.
+🚀 Full Stack Web Developer and a Problem Solver ! 🚀. I have 1+ YOE as a Software Developer Intern at 3 startups.
 
 
 ## 🌐 Socials:
